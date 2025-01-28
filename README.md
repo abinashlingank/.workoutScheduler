@@ -21,8 +21,9 @@ Workout CLI is a lightweight and customizable command-line tool for tracking and
 ---
 
 ### Step 1: Clone this repository
-Clone the repository to set up the script locally:
+Clone the repository to set up the script locally in the `$HOME`:
 ```bash
+cd
 git clone https://github.com/abinashlingank/.workoutScheduler.git
 ```
 
