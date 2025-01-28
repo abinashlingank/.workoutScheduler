@@ -30,7 +30,7 @@ git clone https://github.com/abinashlingank/.workoutScheduler.git
 ---
 
 ### Step 2: Install the CLI
-1. Move the `workoutScript.sh` to the dedicated directory:
+1. Giving permission for `workoutScript.sh` and make it as executable:
    ```bash
    cd
    chmod +x $HOME/.workoutScheduler/workoutScript.sh
