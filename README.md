@@ -1,6 +1,4 @@
-### README for Workout CLI
-
-# **Workout CLI**
+# **Workout Scheduler CLI**
 
 Workout CLI is a lightweight and customizable command-line tool for tracking and managing your workout routine. It leverages simple shell functions to interact with a script that performs core operations such as displaying, logging, and resetting workout progress.
 
